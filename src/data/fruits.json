@@ -1,0 +1,84 @@
+[
+    {
+      "name": "Apple",
+      "description": "The apple is the pomaceous fruit of the apple tree, species Malus domestica in the rose family (Rosaceae). It is one of the most widely cultivated tree fruits, and the most widely known of the many members of genus Malus that are used by humans. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.",
+      "color": "red"
+    },
+    {
+      "name": "Apricot",
+      "description": "The apricot is a fruit, or the tree that bears the fruit, of several species in the genus Prunus (stone fruits). The fruit of the apricot is similar to that of the almond, but is more rounded. The apricot is native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where it has been cultivated since ancient times. It was introduced into Europe in the 9th century by the Arabs, and into the Americas in the 17th century by the Spanish.",
+      "color": "orange"
+    },
+    {
+      "name": "Banana",
+      "description": "The banana is an edible fruit - botanically a berry - produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called \"plantains\", distinguishing them from dessert bananas. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant. Almost all modern edible parthenocarpic (seedless) bananas come from two wild species - Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa - paradisiaca for the hybrid Musa acuminata - M. balbisiana, although these are not the names of the original species. The old scientific name Musa sapientum is no longer used.",
+      "color": "yellow"
+    },
+    {
+      "name": "Blackberry",
+      "description": "The blackberry is an edible fruit produced by many species in the genus Rubus in the rose family. It is a woody perennial flowering plant with a creeping or trailing stem. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. Blackberries are found in a wide range of habitats, from wooded hills to open country, and are cultivated commercially in gardens and farms. They are also a common weed of disturbed areas, roadsides and waste ground. The blackberry is native to Europe, northern Africa and western Asia, but has been widely introduced elsewhere and is now widely distributed in temperate climates around the world.",
+      "color": "black"
+    },
+    {
+      "name": "Blueberry",
+      "description": "The blueberry is a woody perennial flowering plant with indigo-colored berries. It is classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, huckleberries, and Madeira blueberries. Vaccinium oxycoccos, the European blueberry, is the type species of the section Cyanococcus. The fruit is widely appreciated for its characteristic flavor, which some have compared to a mix of pineapple and grapes. The blueberry is native to North America, where it has been cultivated for hundreds of years. It is now also cultivated in Europe, New Zealand, and Australia.",
+      "color": "blue"
+    },
+    {
+      "name": "Cherry",
+      "description": "The cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). The cherry fruits of commerce usually are obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \"cherry\" also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in \"ornamental cherry\", \"cherry blossom\", etc. Wild cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically. The cherry fruits of commerce usually are obtained from a limited number of species such as cultivars of the sweet cherry, Prunus avium. The name \"cherry\" also refers to the cherry tree, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in \"ornamental cherry\", \"cherry blossom\", etc. Wild cherry may refer to any of the cherry species growing outside of cultivation, although Prunus avium is often referred to specifically.",
+      "color": "red"
+    },
+    {
+      "name": "Coconut",
+      "description": "The coconut is a tropical fruit of the coconut palm (Cocos nucifera). It is the seed of the drupe, and not a true nut. The coconut palm is a member of the family Arecaceae (palm family) and the only accepted species of the genus Cocos. The term \"coconut\" can refer to the whole coconut palm or the seed, or the fruit, which, botanically, is a drupe, not a nut. The spelling cocoanut is an archaic form of the word. The term is derived from the 16th-century Portuguese and Spanish word coco meaning \"head\" or \"skull\", referring to the three indentations on the coconut shell that resemble facial features.",
+      "color": "brown"
+    },
+    {
+      "name": "Fig",
+      "description": "The common fig is a species of flowering plant in the mulberry family, known as the common fig or simply the fig. It is the source of the fruit also called the fig and as such is an important crop in those areas where it is grown commercially. The species is native to the Middle East and the Mediterranean region, but has been widely cultivated since ancient times and is now naturalized in many temperate regions. The common fig is a deciduous tree growing to 10-15 m tall, with a trunk up to 50 cm in diameter. The leaves are alternate, 5-15 cm long and broad, with a serrated margin. The flowers are white, 2-3 cm diameter, produced in late spring in racemes 10-30 cm long. The fruit is a berry 2-3 cm diameter, green when immature, ripening to purple, red, or yellow. The flowers are wind-pollinated, and the fruit is typically self-pollinated.",
+      "color": "green"
+    },
+    {
+      "name": "Grape",
+      "description": "The grape is a fruit.",
+      "color": "purple"
+    },
+    {
+      "name": "Kiwi",
+      "description": "The kiwifruit or Chinese gooseberry is the edible berry of a woody vine in the genus Actinidia. The most common cultivar group of kiwifruit (Actinidia deliciosa) is oval, about the size of a large hen\"s egg: 5-8 cm long and 4.5-6 cm wide. It has a fibrous, hairy, or velvety, brownish-green skin, with soft, downy, brownish hairs. The flesh is bright green, with rows of tiny, black, edible seeds. The fruit has a soft texture with a sweet-tart flavor. Kiwifruit is a climbing vine, with long, thin, soft, green tendrils. The leaves are dark green, 5-10 cm long, and 2-4 cm broad, with a smooth margin. The flowers are white, 2-3 cm diameter, with five petals. The fruit is a berry, 5-8 cm long and 4.5-6 cm diameter, with a smooth, thin, brownish-green skin. The flesh is bright green, with rows of tiny, black, edible seeds. The fruit has a soft texture with a sweet-tart flavor.",
+      "color": "brown"
+    },
+    {
+      "name": "Lemon",
+      "description": "The lemon is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India. The tree\"s ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses. The pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie. The pulp and rind are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.",
+      "color": "yellow",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lemon.jpg/1200px-Lemon.jpg"
+    },
+    {
+      "name": "Lime",
+      "description": "The lime is a citrus fruit, which is typically round, green in color, 3-6 centimetres in diameter, and contains acidic juice vesicles. The citron is a related species, which is typically elongated, bitter, and yellow in color. The word lime originates with its earliest use as building mortar and has the sense of \"something that makes things firm\", referring to its strength as a building material. The modern use of the word lime to mean \"a sour citrus fruit\" is a figurative extension of its original meaning. The lime is a citrus fruit, which is typically round, green in color, 3-6 centimetres in diameter, and contains acidic juice vesicles. The citron is a related species, which is typically elongated, bitter, and yellow in color. The word lime originates with its earliest use as building mortar and has the sense of \"something that makes things firm\", referring to its strength as a building material. The modern use of the word lime to mean \"a sour citrus fruit\" is a figurative extension of its original meaning.",
+      "color": "green"
+    },
+    {
+      "name": "Mango",
+      "description": "The mango is a juicy stone fruit (drupe) produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. The majority of these species are found in nature as wild mangoes. The genus belongs to the cashew family Anacardiaceae. Mangoes are native to South Asia, from where the \"common mango\" or \"Indian mango\", Mangifera indica, has been distributed worldwide to become one of the most widely cultivated fruits in the tropics. Other Mangifera species (e.g. horse mango, Mangifera foetida) are grown on a more localized basis. Mango trees grow to 35-40 m (115-131 ft) tall, with a crown radius of 10 m (33 ft). The trees are long-lived, as some specimens still fruit after 300 years. In deep soil, the taproot descends to a depth of 6 m (20 ft). The leaves are evergreen, alternate, simple, entire, 4-20 cm (1.6-7.9 in) long and broad, with a leathery texture. The flowers are produced in axillary and terminal clusters having a sweet fragrance. The fruit takes 4-6 months to mature, growing to 7-10 cm (2.8-3.9 in) in diameter, and typically weighing 300-500 g (11-18 oz). The fruit is a drupe, 5-10 cm (2.0-3.9 in) long and 4-8 cm (1.6-3.1 in) broad, containing a single large seed about 5 cm (2.0 in) long and 3 cm (1.2 in) broad. The flesh of the mature fruit is yellow to orange, firm, and aromatic when fully ripe, with a sweet flavor. The skin is green to yellow when unripe, and orange when ripe. The fruit is eaten fresh, or processed into various products for local and international markets.",
+      "color": "orange"
+    },
+    {
+      "name": "Orange",
+      "description": "The orange is the fruit of the citrus species Citrus - sinensis in the family Rutaceae; it is also called sweet orange, to distinguish it from the related Citrus - aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations. The orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). The chloroplast genome, and therefore the maternal line, is that of pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the number of genes in the orange genome ranged from 30,000 to 40,000. More than 1,000 genes have been linked to orange flavor. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production. In 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China (8.9%), India (8.5%), and the United States (7.7%). The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production. In 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China (8.9%), India (8.5%), and the United States (7.7%).",
+      "color": "orange"
+    },
+    {
+      "name": "Papaya",
+      "description": "The papaya, papaw, or pawpaw is the plant Carica papaya, one of the 22 accepted species in the genus Carica of the family Caricaceae. The species is native to the tropical regions of the Americas, from southern Mexico to northern Argentina. The name papaya is derived from the Nahuatl word papāyatl, which means \"fruit of the papaya tree\". The papaya is a large, tree-like plant, with a single stem growing from 5 to 10 m (16 to 33 ft) tall, with spirally arranged leaves 4 to 6 m (13 to 20 ft) long. The leaves are broad, 30 to 90 cm (12 to 35 in) long and 15 to 45 cm (6 to 18 in) wide, with a rounded base and pointed tip. The flowers are large, 5 to 10 cm (2.0 to 3.9 in) in diameter, with five white petals and numerous stamens. The fruit is a berry, 5 to 20 cm (2.0 to 7.9 in) in diameter, with soft, fleshy, orange to red skin and sweet, edible, orange to yellow flesh. The papaya is a large, tree-like plant, with a single stem growing from 5 to 10 m (16 to 33 ft) tall, with spirally arranged leaves 4 to 6 m (13 to 20 ft) long. The leaves are broad, 30 to 90 cm (12 to 35 in) long and 15 to 45 cm (6 to 18 in) wide, with a rounded base and pointed tip. The flowers are large, 5 to 10 cm (2.0 to 3.9 in) in diameter, with five white petals and numerous stamens. The fruit is a berry, 5 to 20 cm (2.0 to 7.9 in) in diameter, with soft, fleshy, orange to red skin and sweet, edible, orange to yellow flesh.",
+      "color": "orange"
+    },
+    {
+      "name": "Peach",
+      "description": "The peach is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where it was first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine. Peaches and nectarines belong to the same species, and although some botanists distinguish between the two, others consider them to be varieties of the same species. The peach and nectarine are thought to have originated in the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where they were first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine. Peaches and nectarines belong to the same species, and although some botanists distinguish between the two, others consider them to be varieties of the same species. The peach and nectarine are thought to have originated in the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where they were first domesticated and cultivated. It bears an edible juicy fruit called a peach or a nectarine. Peaches and nectarines belong to the same species, and although some botanists distinguish between the two, others consider them to be varieties of the same species.",
+      "color": "orange"
+    }
+  ]
+  

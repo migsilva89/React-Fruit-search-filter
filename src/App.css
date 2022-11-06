@@ -1,0 +1,85 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.input {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  padding: 8px 8px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.fruitGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, auto));
+  grid-gap: 15px;
+}
+
+.fruitCard {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 30px 15px;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.fruitCard h2 {
+  font-size: 18px;
+  margin: 0;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px;
+}
+
+li{
+  border: solid 1px;
+  padding:20px;
+}
+
+input{
+  padding:10px; 
+  margin:20px;
+}
