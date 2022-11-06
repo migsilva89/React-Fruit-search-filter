@@ -4,10 +4,10 @@
 Users should be able to:
 
 - See a list of fruits from a JSON file.
-- Search for a fruit and display results. 
+- Search for a fruit and display results.
 - Display an error message when there's no result.:
 - Reset button that clears the state.
-- Press a fruit and see a model with pressed fruit description.
+- Press a fruit and see a model with a fruit description.
   
 ## Technologies
 I used `React`, `JS`
