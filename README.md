@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-Access the live solution [here](https://fruit-search-filter.vercel.app/)
+Access the live solution [here](https://react-fruit-search-filter.vercel.app/)
 
 Tips or advice on how to improve are very welcome, thank you all!
 

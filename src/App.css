@@ -60,6 +60,7 @@
   text-overflow: ellipsis;
   padding: 30px 15px;
   border: 1px solid rgba(0, 0, 0, 0.25);
+  cursor: pointer;
 }
 
 .fruitCard h2 {
